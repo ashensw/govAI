@@ -1,0 +1,52 @@
+DEPARTMENT OF INFORMATION TECHNOLOGY (DEMO)
+Policy No: DIT/SEC/2026/DEMO-003
+Date: 12 January 2026
+
+Subject: Internal IT and Data Security Policy for Government Employees
+
+1. Purpose
+
+This policy establishes the minimum information security standards applicable to all government employees who access departmental systems, networks, or data. This document is a synthetic demonstration record and does not represent an actual government issuance.
+
+2. Data Classification
+
+2.1 All departmental information shall be classified as Public, Restricted, or Confidential.
+2.2 Public information may be shared without restriction.
+2.3 Restricted information is limited to the originating department and may only be shared externally with the written approval of the Head of Department.
+2.4 Confidential information shall be accessible only to specifically authorised officers and shall never be transmitted over unencrypted channels or stored on personal devices.
+
+3. Password and Account Requirements
+
+3.1 All system passwords must be a minimum of 12 characters, combining upper and lower case letters, numbers, and symbols.
+3.2 Passwords must be changed at least once every 90 days and must not repeat any of the previous 5 passwords used.
+3.3 Multi-factor authentication is mandatory for access to any system handling Restricted or Confidential data.
+3.4 Shared or generic accounts are prohibited except for designated public information kiosks approved by the Department of Information Technology (Demo).
+
+4. Handling of Classified Data
+
+4.1 Confidential data must be encrypted both at rest and in transit using departmentally approved encryption standards.
+4.2 Physical documents containing Confidential data must be stored in locked cabinets and logged in the departmental register when removed or returned.
+4.3 Confidential data must never be forwarded to personal email accounts or third-party cloud storage services not approved by the Department of Information Technology (Demo).
+4.4 Any device used to access Restricted or Confidential systems must have departmentally issued endpoint protection software installed and kept up to date.
+
+5. Acceptable Use of Email and Internet
+
+5.1 Departmental email accounts shall be used for official business only; incidental personal use is permitted provided it does not interfere with duties or system performance.
+5.2 Employees must not open attachments or links from unverified senders and must report suspected phishing attempts to the IT Security Desk immediately.
+5.3 Access to social media and streaming services on departmental networks is restricted to designated break periods, where technically enforced.
+
+6. Incident Reporting
+
+6.1 Any suspected data breach, lost device, or unauthorised access must be reported to the IT Security Desk within 2 hours of discovery, using Form DIT-INC-01.
+6.2 The IT Security Desk shall convene an incident review within 24 hours of any confirmed breach involving Confidential data and notify the Department Head accordingly.
+6.3 Failure to report a known security incident may result in disciplinary action under the Public Service Conduct Regulations (Demo).
+
+7. Enquiries
+
+Enquiries regarding this policy may be directed to the IT Security Desk, Department of Information Technology (Demo), reference DIT/SEC/2026/DEMO-003.
+
+This is a demonstration document generated for the GovAI proof-of-concept and does not reflect actual IT security policy.
+
+(Signed)
+Chief Information Security Officer (Demo)
+Department of Information Technology (Demo)

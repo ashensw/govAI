@@ -1,0 +1,50 @@
+MINISTRY OF HEALTH (DEMO)
+Advisory No: MOH/PHA/2026/DEMO-041
+Date: 8 January 2026
+
+Subject: Seasonal Dengue Prevention Advisory
+
+1. Purpose
+
+This advisory is issued to all regional health offices, government departments, schools, and the general public regarding preventive measures against dengue fever during the current high-risk season. This document is a synthetic demonstration record and does not represent an actual government issuance.
+
+2. Situation Overview
+
+2.1 A seasonal increase in mosquito-borne illness is anticipated between January and April due to expected rainfall patterns.
+2.2 Regional health offices are directed to intensify surveillance and community engagement during this period.
+
+3. Symptoms to Watch For
+
+3.1 Sudden high fever lasting more than two days.
+3.2 Severe headache, pain behind the eyes, and joint or muscle pain.
+3.3 Skin rash appearing two to five days after onset of fever.
+3.4 Mild bleeding such as nosebleeds or bleeding gums, which requires immediate medical attention.
+
+4. Prevention Measures for the Public
+
+4.1 Eliminate stagnant water in and around the home, including flowerpot trays, discarded containers, and roof gutters, at least once a week.
+4.2 Ensure water storage containers are covered at all times.
+4.3 Use mosquito nets, repellents, and protective clothing during peak mosquito activity hours (dawn and dusk).
+4.4 Report suspected clusters of fever in a neighbourhood to the nearest Public Health Inspector's office.
+
+5. Duties of Health Officers
+
+5.1 All Public Health Inspectors and Medical Officers of Health must submit weekly dengue case reports to the Regional Director of Health Services using Form MOH-D7.
+5.2 Fogging operations shall be conducted every Tuesday in zones identified as high-risk based on the previous week's case data.
+5.3 Larval surveys shall be conducted fortnightly in all Grama Niladhari divisions with a Breteau Index above the regional threshold.
+5.4 Public awareness sessions shall be conducted in schools and community centres at least once per month during the high-risk season.
+
+6. Reporting and Escalation
+
+6.1 Any cluster of five or more suspected cases within a one-kilometre radius within a seven-day period must be reported to the Regional Epidemiology Unit within 24 hours.
+6.2 Hospitals shall notify all confirmed dengue admissions to the Epidemiology Unit (Demo) within 24 hours of diagnosis.
+
+7. Public Enquiries
+
+Members of the public may contact the Health Information Hotline at 1999 (Demo Hotline) or email health.advisory@demo.gov (Demo Address) for further guidance.
+
+This is a demonstration document generated for the GovAI proof-of-concept and does not reflect an actual public health advisory.
+
+(Signed)
+Director of Public Health Services (Demo)
+Ministry of Health (Demo)

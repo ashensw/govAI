@@ -1,0 +1,45 @@
+MINISTRY OF FINANCE (DEMO)
+Circular No: MOF/PROC/2026/DEMO-027
+Date: 10 January 2026
+
+Subject: Guidelines on Procurement and Tendering Procedures for Government Departments
+
+1. Purpose
+
+This circular consolidates the procurement thresholds, approval authority levels, and documentation requirements applicable to all government departments, statutory boards, and provincial councils. This document is a synthetic demonstration record prepared for illustrative purposes and does not represent an actual government issuance.
+
+2. Procurement Thresholds
+
+2.1 Purchases up to LKR 100,000 (Demo Currency Units) may be made through direct purchase from a registered supplier, subject to at least three informal price quotations being obtained and recorded.
+2.2 Purchases between LKR 100,001 and LKR 2,000,000 shall be subject to a minor tender procedure, requiring a minimum of five sealed quotations advertised departmentally.
+2.3 Purchases exceeding LKR 2,000,000 shall be subject to open competitive bidding through the National Procurement Portal (Demo) and shall be advertised for a minimum of 21 calendar days.
+2.4 Emergency procurements necessitated by natural disaster, public health emergency, or critical infrastructure failure may bypass standard thresholds subject to post-facto ratification by the Ministry within 14 working days.
+
+3. Approval Authority
+
+3.1 Divisional Heads may approve direct purchases within their delegated financial limits, not exceeding LKR 100,000 per transaction.
+3.2 Heads of Department may approve minor tenders up to LKR 2,000,000, subject to certification by the departmental Procurement Committee.
+3.3 Open competitive bids exceeding LKR 2,000,000 require approval of the relevant Ministry Procurement Committee and, where the value exceeds LKR 50,000,000, concurrence of the Cabinet Appointed Procurement Committee (Demo).
+
+4. Required Documentation
+
+4.1 A Procurement Requisition Form (PRF-01) signed by the requesting officer and endorsed by the Divisional Head.
+4.2 A Comparative Statement of Quotations for all minor tenders and open bids.
+4.3 A Board of Survey report where the procurement involves replacement of existing assets.
+4.4 A signed Conflict of Interest Declaration from all members of any evaluation committee.
+
+5. Timelines
+
+5.1 Minor tender evaluations must be completed within 10 working days of the closing date.
+5.2 Open competitive bid evaluations must be completed within 30 working days of the closing date, extendable once by written justification to the Ministry.
+5.3 Payment to the successful bidder shall be processed within 21 working days of delivery acceptance and invoice submission.
+
+6. Enquiries
+
+Enquiries regarding this circular may be directed to the Procurement Policy Division, Ministry of Finance (Demo), reference MOF/PROC/2026/DEMO-027.
+
+This is a demonstration document generated for the GovAI proof-of-concept and does not reflect actual procurement policy.
+
+(Signed)
+Director General of Procurement (Demo)
+Ministry of Finance (Demo)
